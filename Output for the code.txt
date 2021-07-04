@@ -1,0 +1,31 @@
+1. Write a Program in python to generate MD5 of a string data.
+
+Output:
+
+Enter the string You would like to convert to md5: GUNASEKHAR VEMULA
+9c8c95b0f097603ccd4798a4c1c31ac9
+
+2. Write a program in python to generate hashes of string data using 3 algorithms from hashlib.
+
+Output: 
+
+Enter the string You would like to convert to md5: GUNASEKHAR VEMULA
+9c8c95b0f097603ccd4798a4c1c31ac9
+
+Enter the string You would like to convert to sha1: GUNASEKHAR VEMULA
+6e9c05949024bcd4e6bc99db95c71eb3a021dfc9
+
+Enter the string You would like to convert to sha256: GUNASEKHAR VEMULA
+b16c536619204e4a7a7147204fb6636713763e5eecdcd472bd62f3f838f6e025
+
+3. Write a program to add Salting and Iterations to your hashes.
+
+Output:
+
+Enter the string to apply salting and iterations: GUNASEKHAR VEMULA
+b'i\x8e\x9fc\xce-\x8e\x1e\x8f\xce\xe9\xd2P`\xd4,\xd1\xf2\x1a\x1e`\xaa\xfdL\xe3\xd1|\x8fi\xfb\xf4\xb2'
+b"\x99q\x8f\x80\\\x17\x9a\xc2\xf2S\xd5\x8d\t\xfaa\x888\xfb\xfc`)'[W\xb8p8\xf3\xf2\x1c\x001"
+
+
+project submmited by:
+GUNASEKHAR VEMULA
